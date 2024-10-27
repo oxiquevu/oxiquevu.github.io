@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oxiquevu.github.io/sitemap_index.oxiquevu
